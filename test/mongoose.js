@@ -1,5 +1,7 @@
 "use strict";
 
+// https://medium.com/nongaap/beginners-guide-to-writing-mongodb-mongoose-unit-tests-using-mocha-chai-ab5bdf3d3b1d
+
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
