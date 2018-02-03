@@ -1,3 +1,5 @@
+`node db/seed.js` fills `mongodb://localhost/testDatabase` 
+
     npm install -g mocha
     npm init; npm install mongoose chai
     
